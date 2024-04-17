@@ -1,0 +1,6 @@
+Ola, Mundo!
+Isso e uma adicao!
+Isso e Java, Java, Java, Java!
+Vou excluir esse projeto
+Isso é uma subtracao
+excluir excluir excluir
